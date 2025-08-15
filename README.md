@@ -1,5 +1,5 @@
 {
   "Whitelist": {
-    "Whitelisted": [4971164958, 1]
+    "Whitelisted": [1, 1]
   }
 }
